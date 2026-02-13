@@ -3,9 +3,8 @@
 ## 🚀 About Me
 Network Engineer | CCIE | Automation Enthusiast
 
-- 🌍 Interested in global opportunities
 - 🔧 Focus on Network Architecture & Automation
-- 📚 Currently learning Cloud & IoT
+- 📚 Currently learning Cloud & Network
 
 ---
 
