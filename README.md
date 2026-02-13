@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jerry 👋
 
-<!--
-**NetEng-Jerry/NetEng-Jerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Network Engineer | CCIE | Automation Enthusiast
 
-Here are some ideas to get you started:
+- 🌍 Interested in global opportunities
+- 🔧 Focus on Network Architecture & Automation
+- 📚 Currently learning Cloud & IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- Routing & Switching (BGP, OSPF)
+- MPLS
+- Python for Network Automation
+- Ansible
+- Linux
+- Cloud Networking
+- AI Networking
+---
+
+## 📂 Featured Projects
+
+- 🔹 Network Automation Toolkit
+- 🔹 Branch Network Design Case
+- 🔹 BGP Deep Dive Notes
